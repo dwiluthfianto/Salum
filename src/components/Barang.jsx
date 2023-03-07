@@ -1,0 +1,68 @@
+const barang = [
+  {
+    id: 1,
+    img: "https://cf.shopee.co.id/file/fcc9270d14d6e7582cf0b663f9027456",
+    title: "Rockercrown Pullover Hoodie White 08",
+    price: "Rp 320.000",
+    rating: 4.5,
+    priceDiskon: "Rp 290.000",
+  },
+  {
+    id: 2,
+    img: "https://cf.shopee.co.id/file/07c914efbaf57c4eb3f7c4cafb9fa5f2",
+    title: "Rockercrown Pullover Hoodie Black 05",
+    price: "Rp 320.000",
+    rating: 4.7,
+    priceDiskon: "Rp 290.000",
+  },
+  {
+    id: 3,
+    img: "https://cf.shopee.co.id/file/2f63a4dc673069cfaf7d5629260500d3",
+    title: "Rockercrown Pullover Hoodie CMB 22D",
+    price: "Rp 305.000",
+    rating: 4.6,
+    priceDiskon: "Rp 285.000",
+  },
+  {
+    id: 4,
+    img: "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/5/0a2d0a8a-803e-4eef-aa36-e422648da11f.jpg",
+    title: "Wader Crispy",
+    price: "Rp 20.000",
+    rating: 4.9,
+    priceDiskon: "Rp 18.000",
+  },
+  {
+    id: 5,
+    img: "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/1/2cb7afc3-c220-4257-9f3d-7195d5db68fc.jpg",
+    title: "Kripik Cetul",
+    price: "Rp 18.000",
+    rating: 4.5,
+    priceDiskon: "Rp 17.000",
+  },
+  {
+    id: 6,
+    img: "https://cf.shopee.co.id/file/2da7b52e1e803fe110ad652111a36a65_tn",
+    title: "Paket Hampers Cangkir Keramik Garansi Pecah",
+    price: "Rp 120.000",
+    rating: 4.6,
+    priceDiskon: "Rp 114.000",
+  },
+  {
+    id: 7,
+    img: "https://cf.shopee.co.id/file/ba3aec28d7fce600df7952b62d5276c6",
+    title: "Paket Hampers Cangkir Keramik Garansi Pecah",
+    price: "Rp 120.000",
+    rating: 4.6,
+    priceDiskon: "Rp 114.000",
+  },
+  {
+    id: 8,
+    img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/11/10/fff32559-0019-4f9c-9409-6e6bcfedc659.jpg",
+    title: "Makaroni Bantet Makcin Pedas",
+    price: "Rp 15.000",
+    rating: 4.5,
+    priceDiskon: "Rp 14.000",
+  },
+];
+
+export default barang;
